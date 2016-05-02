@@ -71,3 +71,4 @@ public class DiceClass {
 	}
 
 
+// Good job...please try and implement the toString method
